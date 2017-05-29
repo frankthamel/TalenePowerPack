@@ -104,7 +104,7 @@ Pod::Spec.new do |s|
 
   #s.resource  = "icon.png"
   #s.resources = "Resources/*.png"
-  s.resources    = "TalenePowerPack/*.mp3"
+  #s.resources    = "TalenePowerPack/*.mp3"
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
